@@ -1,0 +1,32 @@
+                       HTML5 Interview Questions
+
+q1. What are the differences between HTML5 and HTML?
+q2.List out the new Structural Elements in HTML5.
+q3.What is the use of the article tag?
+q4.What do you understand by HTML tags?
+q5. How many tags are required to create a web page in HTML5?
+q6. explain the various formatting tags in HTML5.
+q7. Explain the <figure> tag in HTML5.
+q8.Explain the various new tags introduced by HTML5 in Media Elements.
+q9.What is a <meta> tag in HTML5?
+q10.What is new about the relationship between the <header> and <h1> tags in HTML5?
+q11.What is new about the relationship between the <header> and <h1> tags in HTML5?
+q12.Please explain how to indicate the character set being used by a document in HTML5?
+q13.what are the semantic elements
+q14.Please explain whether an <article> element can have <section> elements and vice-versa.
+q15.Explain the difference between Canvas and SVG elements.
+q16.What do you understand by <!DOCTYPE>?
+q17.What will happen if the doctype is not specified in an HTML web page?
+q18.explain the Geolocation API in HTML5. How will you create a Geolocation object?
+q19. Explain the difference between div and span.
+q20.What do you understand by HTML5 Web Storage? Is it any better than Cookies?
+q21.explain the new form input types in HTML5.
+q22.What does a hyperlink mean? Can it be only text?
+q23.What are the most popular audio and video formats for embedding on an HTML5 web page?
+q24.What are the various common lists for designing a web page in HTML5.
+q25.Briefly explain various page structure elements in HTML5.
+q26.Explain the Advantage and Disadvantages of using HTML5.
+q27.What are the useful API in HTML5?
+q28.Enumerate some of the most important new features in HTML5.
+q29.Why do we need to autocomplete attribute for the form tag?
+q30.What is an API in HTML5?
